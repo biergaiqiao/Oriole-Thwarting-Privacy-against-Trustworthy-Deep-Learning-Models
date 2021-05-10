@@ -1,4 +1,4 @@
-This is an introduction to the files in the fakes folder。All the resources in the fawkes directory are referenced to website [https://github.com/Shawn-Shan/fawkes]
+This is an introduction to the files in the fakes folder。All the resources in the fawkes directory are referenced to [website](https://github.com/Shawn-Shan/fawkes).
 
 # Usage
 
