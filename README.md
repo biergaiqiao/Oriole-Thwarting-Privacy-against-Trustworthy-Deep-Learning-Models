@@ -16,4 +16,4 @@ This folder contains relevant resources in this paper([Oriole: Thwarting Privacy
  **python fawkes/protection.py [args]** (Fawkes) 
  or **python oriole/F_protection.py [args]**(Oriole).
  
- ![exmaple](https://github.com/biergaiqiao/Oriole-Thwarting-Privacy-against-Trustworthy-Deep-Learning-Models/tree/main/material/example.jpg).
+ ![exmaple](https://github.com/biergaiqiao/Oriole-Thwarting-Privacy-against-Trustworthy-Deep-Learning-Models/tree/main/material/example.png).
