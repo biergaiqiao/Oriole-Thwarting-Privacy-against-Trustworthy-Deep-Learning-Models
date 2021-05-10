@@ -7,12 +7,19 @@ This code is intended only for presonal privacy or academic reserch. We prohibit
 ## Fawkes
 This folder contains relevant resources in this paper([Fawkes: Protecting Privacy against Unauthorized Deep Learning Models](https://www.usenix.org/conference/usenixsecurity20/presentation/shan)). More details in the relevant folder [fawkes](https://github.com/biergaiqiao/Oriole-Thwarting-Privacy-against-Trustworthy-Deep-Learning-Models/tree/main/fawkes).
 
-### Quick Intallation
+### Quick Installation
+Install from [PyPI](https://pypi.org/project/fawkes/).
 `pip install fawkes`
 
 
 ## Oriole
 This folder contains relevant resources in this paper([Oriole: Thwarting Privacy against Trustworth Deep Learning Models](https://arxiv.org/abs/2102.11502)). More details in the relevant folder [oriole](https://github.com/biergaiqiao/Oriole-Thwarting-Privacy-against-Trustworthy-Deep-Learning-Models/tree/main/oriole).
+
+### Quick Installation
+Install from [PyPI](https://pypi.org/project/fawkes/).
+`pip install fawkes`
+
+And then you need to download this repo and overwrite the '**utils.py**' as the [Tips](https://github.com/biergaiqiao/Oriole-Thwarting-Privacy-against-Trustworthy-Deep-Learning-Models/tree/main/oriole#tips) do.
 
 ### Tips
 - Your'd better not change the value of the batch-size unless you have very powerful GPU computing resources.
