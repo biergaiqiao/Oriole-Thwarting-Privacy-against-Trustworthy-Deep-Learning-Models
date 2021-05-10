@@ -15,8 +15,8 @@ $ fawkes
 - **--lr**: only relevant with mode "custom", learning rate,default is 2.
 - **--batch-size**: number of images to run optimization together. Change to >1 only if you have extremely powerful compute power, and the default is 1.
 - **--separate_target**: whether select separate targets for each faces in the directory, and default is 'True'.
-- **no-align**: whether to detect and crop faces, default is 'True'.
-- **debug**: run on debug and copy/paste the stdout when reproting and issue on github, and default is 'True'.
+- **--no-align**: whether to detect and crop faces, default is 'True'.
+- **--debug**: run on debug and copy/paste the stdout when reproting and issue on github, and default is 'True'.
 - **--format**: format of the output image(png or jpg), and default is 'png'.
 
 ## Example
