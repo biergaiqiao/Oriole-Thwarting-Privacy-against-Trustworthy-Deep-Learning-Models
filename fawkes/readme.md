@@ -20,7 +20,7 @@ $ fawkes
 - **--format**: format of the output image(png or jpg), and default is 'png'.
 
 ## Example
-fawkes -d ./imgs --model low -g 0 --batch-size 1 --format png
+`fawkes -d ./imgs --model low -g 0 --batch-size 1 --format png`
 
-or python protection.py -d ./imgs --model low --batch-size 1 --format png
+or `python protection.py -d ./imgs --model low --batch-size 1 --format png`
 
