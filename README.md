@@ -9,6 +9,7 @@ This folder contains relevant resources in this paper([Fawkes: Protecting Privac
 
 ### Quick Installation
 Install from [PyPI](https://pypi.org/project/fawkes/).
+
 `pip install fawkes`
 
 
@@ -17,6 +18,7 @@ This folder contains relevant resources in this paper([Oriole: Thwarting Privacy
 
 ### Quick Installation
 Install from [PyPI](https://pypi.org/project/fawkes/).
+
 `pip install fawkes`
 
 And then you need to download this repo and overwrite the '**utils.py**' as the [Tips](https://github.com/biergaiqiao/Oriole-Thwarting-Privacy-against-Trustworthy-Deep-Learning-Models/tree/main/oriole#tips) do.
