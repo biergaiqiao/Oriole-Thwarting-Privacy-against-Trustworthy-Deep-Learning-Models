@@ -12,4 +12,6 @@ This folder contains relevant resources in this paper([Oriole: Thwarting Privacy
 
 ### Tips
 - Your'd better not change the value of the batch-size unless you have very powerful GPU computing resources.
-- Run on GPU. neither the current Fawkes packge or the Oriole package support GPU. To use GPU, you need to clone this repo, install the required packges in **setup.py**, and replace the **tensorflow** with **tensorflow-gpu** Then you can run Fawkes or Oriole like this: **python fawkes/protection.py [args]** (Fawkes) or **python oriole/F_protection.py [args]**(Oriole).
+- Run on GPU. neither the current Fawkes packge or the Oriole package support GPU. To use GPU, you need to clone this repo, install the required packges in **setup.py**, and replace the **tensorflow** with **tensorflow-gpu** Then you can run Fawkes or Oriole like this:
+ **python fawkes/protection.py [args]** (Fawkes) 
+ or **python oriole/F_protection.py [args]**(Oriole).
