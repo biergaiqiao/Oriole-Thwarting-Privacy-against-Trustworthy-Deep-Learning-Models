@@ -15,3 +15,5 @@ This folder contains relevant resources in this paper([Oriole: Thwarting Privacy
 - Run on GPU. neither the current Fawkes packge or the Oriole package support GPU. To use GPU, you need to clone this repo, install the required packges in **setup.py**, and replace the **tensorflow** with **tensorflow-gpu** Then you can run Fawkes or Oriole like this:
  **python fawkes/protection.py [args]** (Fawkes) 
  or **python oriole/F_protection.py [args]**(Oriole).
+ 
+ ![exmaple](https://github.com/biergaiqiao/Oriole-Thwarting-Privacy-against-Trustworthy-Deep-Learning-Models/tree/main/material/example.jpg).
