@@ -16,6 +16,5 @@ One face landmark detector that has proven to work well in this setting is the [
 
 #### Set the python paths
 Set the environment variable `PYTHONPATH` to point to the `src` directory of the cloned repo. This is typically done something like this
-
 `export PYTHONPATH=[...]/facenet/src`
 where [...] should be replaced with the direcotry where cloned facenet  repo resides.
