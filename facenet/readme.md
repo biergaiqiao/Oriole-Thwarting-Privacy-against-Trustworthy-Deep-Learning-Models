@@ -12,4 +12,10 @@ The code is heavily inspired by the [Facenet](https://github.com/davidsandberg/f
 
 ## Pre-processing
 ### Face alignment using MTCNN
+One face landmark detector that has proven to work well in this setting is the [Multi-task CNN](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html). 
 
+#### Set the python paths
+Set the environment variable `PYTHONPATH` to point to the `src` directory of the cloned repo. This is typically done something like this
+
+`export PYTHONPATH=[...]/facenet/src`
+where [...] should be replaced with the direcotry where cloned facenet  repo resides.
