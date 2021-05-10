@@ -26,3 +26,19 @@ where [...] should be replaced with the direcotry where cloned facenet  repo res
 ###### Dataset structure
 
 Is assumed that the training dataset is arranged as below, i.e. where each class a sub-directory containing the training examples belonging to that class.
+
+`Aaron_Eckhart
+    Aaron_Eckhart_0001.jpg
+
+Aaron_Guiel
+    Aaron_Guiel_0001.jpg
+
+Aaron_Patterson
+    Aaron_Patterson_0001.jpg
+
+Aaron_Peirsol
+    Aaron_Peirsol_0001.jpg
+    Aaron_Peirsol_0002.jpg
+    Aaron_Peirsol_0003.jpg
+    Aaron_Peirsol_0004.jpg
+    ...`
