@@ -8,7 +8,7 @@ This code is intended only for presonal privacy or academic reserch. We prohibit
 This folder contains relevant resources in this paper([Fawkes: Protecting Privacy against Unauthorized Deep Learning Models](https://www.usenix.org/conference/usenixsecurity20/presentation/shan)). More details in the relevant folder [fawkes](https://github.com/biergaiqiao/Oriole-Thwarting-Privacy-against-Trustworthy-Deep-Learning-Models/tree/main/fawkes).
 
 ### Quick Intallation
-'pip install fawkes'
+`pip install fawkes'
 
 
 ## Oriole
