@@ -20,9 +20,9 @@ $ fawkes
 - **--format**: format of the output image(png or jpg), and default is 'png'.
 
 ## Example
-fawkes --DEEP 1 --power 2 -d ./imgs --model low -g 0 --batch-size 1 --format png
+`fawkes --DEEP 1 --power 2 -d ./imgs --model low -g 0 --batch-size 1 --format png`
 
-or python protection.py --DEEP 1 --power 2 -d ./imgs --model low --batch-size 1 --format png
+or `python protection.py --DEEP 1 --power 2 -d ./imgs --model low --batch-size 1 --format png`
 
 ## Tips
 After you download this resources in the directory **'oriole'**, first you need to copy the file **'utils.py'** to the path of **'fawkes'** in your corresponding virtual environment to overwrite the file **'utils.py'**, and then these will work.
