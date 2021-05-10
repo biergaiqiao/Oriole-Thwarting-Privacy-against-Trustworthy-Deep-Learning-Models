@@ -9,3 +9,7 @@ This is a repo about how we train our model, which refers to resource [Face Reco
 
 ## Inspriation
 The code is heavily inspired by the [Facenet](https://github.com/davidsandberg/facenet) implementation.
+
+## Pre-processing
+### Face alignment using MTCNN
+
