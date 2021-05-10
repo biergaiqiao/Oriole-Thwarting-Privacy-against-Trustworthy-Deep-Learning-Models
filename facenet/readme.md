@@ -27,6 +27,11 @@ where [...] should be replaced with the direcotry where cloned facenet  repo res
 
 Is assumed that the training dataset is arranged as below, i.e. where each class a sub-directory containing the training examples belonging to that class.
 
+##### Face alignment
+For face alignment it is recommended to use [MTCNN](https://github.com/kpzhang93/MTCNN_face_detection_alignment) which has been proven to give good performance for alignment fo train/test sets.In addition, a matlab script to align a dataset using this implementation can be foud here.
+
+To simplify the usage of this project a python/tensorflow implementation of MTCNN is provided. This implementation does not have any other external dependencies than Tensorflow and the runtime on LFW is similar to the matlab implementation.
+
 ```
 Aaron_Eckhart
     Aaron_Eckhart_0001.jpg
@@ -43,4 +48,5 @@ Aaron_Peirsol
     Aaron_Peirsol_0003.jpg
     Aaron_Peirsol_0004.jpg
     ...
-```    
+```
+
