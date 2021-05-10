@@ -14,7 +14,7 @@ Install from [PyPI](https://pypi.org/project/fawkes/).
 
 
 ## Oriole
-This folder contains relevant resources in this paper([Oriole: Thwarting Privacy against Trustworth Deep Learning Models](https://arxiv.org/abs/2102.11502)). The function of this module is mainly to make *-m-* multi-cloaked images for each image in the training dataset. More details in the relevant folder [oriole](https://github.com/biergaiqiao/Oriole-Thwarting-Privacy-against-Trustworthy-Deep-Learning-Models/tree/main/oriole).
+This folder contains relevant resources in this paper([Oriole: Thwarting Privacy against Trustworth Deep Learning Models](https://arxiv.org/abs/2102.11502)). The function of this module is mainly to make ***m*** multi-cloaked images for each image in the training dataset. More details in the relevant folder [oriole](https://github.com/biergaiqiao/Oriole-Thwarting-Privacy-against-Trustworthy-Deep-Learning-Models/tree/main/oriole).
 
 ### Quick Installation
 Install from [PyPI](https://pypi.org/project/fawkes/).
