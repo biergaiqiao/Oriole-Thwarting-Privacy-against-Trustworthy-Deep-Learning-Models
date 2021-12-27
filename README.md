@@ -1,5 +1,5 @@
 # Oriole-Thwarting-Privacy-against-Trustworthy-Deep-Learning-Models
-This project is prepared for the paper "Oriole: Thwarting Privacy against Trustworthy Deep Learning Models" published in ACISP.
+This project is prepared for the paper ["Oriole: Thwarting Privacy against Trustworthy Deep Learning Models"](https://link.springer.com/chapter/10.1007%2F978-3-030-90567-5_28) published in ACISP.
 
 ## Copyright
 This code is intended only for presonal privacy or academic reserch. We prohibit commercialization activities without permisssion. The copyright belongs to the master student [Liuqiao Chen](https://dblp.org/pid/286/1713) and Prof. [Qian](https://dblp.org/pid/61/6767) of East China Normal University.
